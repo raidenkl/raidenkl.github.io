@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>筱筠丶谦的博客</title>
+  
+  
+  <link href="https://raidenkl.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://raidenkl.github.io/"/>
+  <updated>2024-05-11T09:44:46.055Z</updated>
+  <id>https://raidenkl.github.io/</id>
+  
+  <author>
+    <name>筱筠丶谦</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ubuntu搭建原神私服</title>
+    <link href="https://raidenkl.github.io/blog/2d34.html"/>
+    <id>https://raidenkl.github.io/blog/2d34.html</id>
+    <published>2022-07-04T00:25:00.000Z</published>
+    <updated>2024-05-11T09:44:46.055Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;1-准备环境&quot;&gt;&lt;a href=&quot;#1-准备环境&quot; class=&quot;headerlink&quot; title=&quot;1.准备环境&quot;&gt;&lt;/a&gt;1.准备环境&lt;/h1&gt;&lt;p&gt;注意这是arm64下的情况&lt;/p&gt;
+&lt;h2 id=&quot;1-mongodb&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="ubuntu" scheme="https://raidenkl.github.io/categories/ubuntu/"/>
+    
+    
+    <category term="ubuntu" scheme="https://raidenkl.github.io/tags/ubuntu/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>树莓派安装kali系统时安装zerotier</title>
+    <link href="https://raidenkl.github.io/blog/42a.html"/>
+    <id>https://raidenkl.github.io/blog/42a.html</id>
+    <published>2021-09-05T06:11:00.000Z</published>
+    <updated>2024-05-11T08:16:04.671Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="kali" scheme="https://raidenkl.github.io/categories/kali/"/>
+    
+    <category term="内网穿透" scheme="https://raidenkl.github.io/categories/kali/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/"/>
+    
+    
+    <category term="kali" scheme="https://raidenkl.github.io/tags/kali/"/>
+    
+    <category term="树莓派" scheme="https://raidenkl.github.io/tags/%E6%A0%91%E8%8E%93%E6%B4%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>kali设置开机自启动脚本</title>
+    <link href="https://raidenkl.github.io/blog/6707.html"/>
+    <id>https://raidenkl.github.io/blog/6707.html</id>
+    <published>2021-09-05T06:00:21.000Z</published>
+    <updated>2024-05-11T08:16:04.661Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;1.在&amp;#x2F;etc&amp;#x2F;init.d&amp;#x2F;目录下编写脚本 名字任意&lt;/p&gt;
+&lt;p&gt;&lt;code&gt; cd /etc/init.d&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;touch xxx.sh&lt;/code&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>termux搭建mc服务器</title>
+    <link href="https://raidenkl.github.io/blog/a2b7.html"/>
+    <id>https://raidenkl.github.io/blog/a2b7.html</id>
+    <published>2021-07-19T20:45:00.000Z</published>
+    <updated>2024-05-11T08:16:04.661Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;1-准备工作&quot;&gt;&lt;a href=&quot;#1-准备工作&quot; class=&quot;headerlink&quot; title=&quot;1.准备工作&quot;&gt;&lt;/a&gt;1.准备工作&lt;/h1&gt;&lt;p&gt;(1) 安装vim&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;apt install vim</summary>
+        
+      
+    
+    
+    
+    
+    <category term="mc" scheme="https://raidenkl.github.io/tags/mc/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>利用gitgee部署hexo时无需每次都输入密码</title>
+    <link href="https://raidenkl.github.io/blog/165b.html"/>
+    <id>https://raidenkl.github.io/blog/165b.html</id>
+    <published>2020-12-11T04:46:00.000Z</published>
+    <updated>2024-05-11T08:16:04.661Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;记住密码&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;git config --global credential.helper</summary>
+        
+      
+    
+    
+    
+    <category term="other" scheme="https://raidenkl.github.io/categories/other/"/>
+    
+    
+    <category term="other" scheme="https://raidenkl.github.io/tags/other/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>kali2020.1a打开蓝牙的方法</title>
+    <link href="https://raidenkl.github.io/blog/9073.html"/>
+    <id>https://raidenkl.github.io/blog/9073.html</id>
+    <published>2020-12-05T05:12:00.000Z</published>
+    <updated>2024-05-11T08:16:04.661Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;其实就两条命令：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt; touch</summary>
+        
+      
+    
+    
+    
+    <category term="kali" scheme="https://raidenkl.github.io/categories/kali/"/>
+    
+    
+    <category term="kali" scheme="https://raidenkl.github.io/tags/kali/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>更新日志</title>
+    <link href="https://raidenkl.github.io/blog/85af.html"/>
+    <id>https://raidenkl.github.io/blog/85af.html</id>
+    <published>2019-09-14T04:11:58.000Z</published>
+    <updated>2024-05-11T08:16:04.671Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;hr&gt;
+&lt;p&gt;2019.9.13&lt;/p&gt;
+&lt;p&gt;修复了 Archives Tags Categories Link</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>在termux中Hexo-Admin的Deploy配置</title>
+    <link href="https://raidenkl.github.io/blog/a241.html"/>
+    <id>https://raidenkl.github.io/blog/a241.html</id>
+    <published>2019-08-14T10:12:00.000Z</published>
+    <updated>2024-05-11T08:16:04.661Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;hr&gt;
+&lt;p&gt;1.进入hexo博客的文件夹，执行：&lt;/p&gt;
+&lt;p&gt; &lt;code&gt; npm install --save hexo-admin&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;2.运行下列命令启动hexo-admin ：&lt;/p&gt;
+&lt;p&gt; &lt;code&gt;hexo server</summary>
+        
+      
+    
+    
+    
+    <category term="termux" scheme="https://raidenkl.github.io/categories/termux/"/>
+    
+    
+    <category term="termux" scheme="https://raidenkl.github.io/tags/termux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何用termux在本地搭建aria2+AriaNg</title>
+    <link href="https://raidenkl.github.io/blog/c670.html"/>
+    <id>https://raidenkl.github.io/blog/c670.html</id>
+    <published>2019-08-14T07:00:00.000Z</published>
+    <updated>2024-05-11T08:16:04.671Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;hr&gt;
+&lt;p&gt;1.下载需要的Packages&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;pkg in wget unzip aria2 tmux&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;2.下载Caddy&lt;br&gt;这样因为Caddy配置起来比较容易,所以用Caddy当HTTP</summary>
+        
+      
+    
+    
+    
+    <category term="termux" scheme="https://raidenkl.github.io/categories/termux/"/>
+    
+    
+    <category term="termux" scheme="https://raidenkl.github.io/tags/termux/"/>
+    
+  </entry>
+  
+</feed>
