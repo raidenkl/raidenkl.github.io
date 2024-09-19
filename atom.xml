@@ -6,7 +6,7 @@
   <link href="https://raidenkl.github.io/atom.xml" rel="self"/>
   
   <link href="https://raidenkl.github.io/"/>
-  <updated>2024-05-25T09:27:45.395Z</updated>
+  <updated>2024-09-19T10:20:30.199Z</updated>
   <id>https://raidenkl.github.io/</id>
   
   <author>
@@ -15,6 +15,57 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sysfs操作led</title>
+    <link href="https://raidenkl.github.io/blog/c71ab5a.html"/>
+    <id>https://raidenkl.github.io/blog/c71ab5a.html</id>
+    <published>2024-09-18T18:12:00.000Z</published>
+    <updated>2024-09-19T10:20:30.199Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h4 id=&quot;0-前置知识&quot;&gt;&lt;a href=&quot;#0-前置知识&quot; class=&quot;headerlink&quot; title=&quot;0.前置知识&quot;&gt;&lt;/a&gt;0.前置知识&lt;/h4&gt;&lt;p&gt;进入用户 LED 设备文件夹：&lt;/p&gt;
+&lt;figure class=&quot;highlight</summary>
+        
+      
+    
+    
+    
+    <category term="驱动" scheme="https://raidenkl.github.io/categories/%E9%A9%B1%E5%8A%A8/"/>
+    
+    
+    <category term="linux" scheme="https://raidenkl.github.io/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>sysfs操作gpio</title>
+    <link href="https://raidenkl.github.io/blog/fcffc2d2.html"/>
+    <id>https://raidenkl.github.io/blog/fcffc2d2.html</id>
+    <published>2024-09-18T10:16:00.000Z</published>
+    <updated>2024-09-19T10:19:48.750Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h4 id=&quot;0-前置知识&quot;&gt;&lt;a href=&quot;#0-前置知识&quot; class=&quot;headerlink&quot; title=&quot;0.前置知识&quot;&gt;&lt;/a&gt;0.前置知识&lt;/h4&gt;&lt;p&gt;与 LED 设备一样，GPIO 同样也是通过 sysfs</summary>
+        
+      
+    
+    
+    
+    <category term="驱动" scheme="https://raidenkl.github.io/categories/%E9%A9%B1%E5%8A%A8/"/>
+    
+    
+    <category term="linux" scheme="https://raidenkl.github.io/tags/linux/"/>
+    
+  </entry>
   
   <entry>
     <title>部署docker，安装casaos的方法</title>
