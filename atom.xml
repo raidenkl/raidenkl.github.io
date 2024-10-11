@@ -6,7 +6,7 @@
   <link href="https://raidenkl.github.io/atom.xml" rel="self"/>
   
   <link href="https://raidenkl.github.io/"/>
-  <updated>2024-09-19T10:20:30.199Z</updated>
+  <updated>2024-10-11T16:28:14.821Z</updated>
   <id>https://raidenkl.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>驱动的笔记</title>
+    <link href="https://raidenkl.github.io/blog/84c58d86.html"/>
+    <id>https://raidenkl.github.io/blog/84c58d86.html</id>
+    <published>2024-10-11T08:28:07.000Z</published>
+    <updated>2024-10-11T16:28:14.821Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;由于记录笔记的时候用的是docx，不好转换成md传到博客，所以传到腾讯文档查看了，内容如下：&lt;/p&gt;
+&lt;h3 id=&quot;linux-sdk&quot;&gt;&lt;a href=&quot;#linux-sdk&quot; class=&quot;headerlink&quot; title=&quot;linux_sdk&quot;&gt;&lt;/a&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>sysfs操作led</title>
